@@ -12,20 +12,14 @@
 <h2>Como Rodar o Projeto</h2>
 <ol>
     <li><strong>Clonar o repositório:</strong>
-        <pre>git clone https://github.com/seu_usuario/desafio-transformacao-dados.git<br>cd desafio-transformacao-dados</pre>
-    </li>
-    <li><strong>Criar um ambiente virtual (opcional, mas recomendado):</strong>
-        <pre>python -m venv venv<br>source venv/bin/activate  # Linux/macOS<br>venv\Scripts\activate  # Windows</pre>
-    </li>
-    <li><strong>Instalar as dependências:</strong>
-        <pre>pip install -r requirements.txt</pre>
+        <pre>git clone https://github.com/LeoJarussi/desafio-transformacao-dados.git<br>cd desafio-transformacao-dados</pre>
     </li>
     <li><strong>Executar o script:</strong>
         <pre>python transformacao_dados.py</pre>
     </li>
 </ol>
 <h2>Resultado</h2>
-<p>Ao rodar o script, os dados extraídos do PDF serão salvos em um arquivo CSV e compactados dentro da pasta <code>downloads/Teste_seu_nome.zip</code>.</p>
+<p>Ao rodar o script, os dados extraídos do PDF serão salvos em um arquivo CSV e compactados dentro da pasta.</p>
 
 <h2>Contato</h2>
 <p>Caso tenha alguma dúvida, entre em contato pelo <a href="https://www.linkedin.com/in/leonardo-jarussi-03b0b32b7/">Linkedin</a>.</p>
